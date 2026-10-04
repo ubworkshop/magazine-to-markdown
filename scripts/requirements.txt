@@ -1,0 +1,4 @@
+pymupdf>=1.24.0
+ebooklib>=0.18
+beautifulsoup4>=4.12.0
+markdownify>=0.11.0
